@@ -1,16 +1,16 @@
-# Higher Or Lower Game
+# 🎲Higher Or Lower Game
 
 This repository contains a Python implementation of the Higher Or Lower card game. In this game, players predict whether the next card drawn from a shuffled deck will be higher or lower than the current card.
 
 ## How to Play
 
-### Running the Game
+### 🏃Running the Game
 1. Clone this repository to your local machine.
 2. Ensure you have Python installed.
 3. Navigate to the repository directory in your terminal.
 4. Run the command `python higher_or_lower.py` to start the game.
 
-### Gameplay
+### 🎮Gameplay
 - Upon starting the game, you will be prompted to select a game mode:
   - **Singleplayer**: Play against the computer.
   - **Stupid Simulation**: Simulate the game with a computer player making random guesses.
