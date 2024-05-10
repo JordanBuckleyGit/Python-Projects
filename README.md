@@ -32,4 +32,4 @@ This repository contains a Python implementation of the Higher Or Lower card gam
 - [JordanBuckleyGit](https://github.com/JordanBuckleyGit)
 
 ## License
-This project is licensed under the [MIT License](link to license file).
+This project is licensed under the [MIT License]
