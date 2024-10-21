@@ -47,3 +47,14 @@ def q4():
     inFile.close()
 q4()
 
+def q5():
+    with open("lab5/dna.txt", "r") as inFile:
+        content = inFile.read()
+
+    dna_sequences = content.split("\n")
+
+    for person_id, dna in enumerate(dna_sequences):
+        print(f"{person_id}: {dna.strip()}")
+
+    inFile.close()
+q5()
