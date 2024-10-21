@@ -26,4 +26,13 @@ def q2():
     inFile.close()
 q2()
 
+def q3():
+    inFile = open("lab5/debanks.txt", "r")
 
+    lines = inFile.readlines()
+
+    for line_number, line in enumerate(lines, start=1):
+        print(f"Line {line_number}: {line.strip()}")
+
+    inFile.close()
+q3()
