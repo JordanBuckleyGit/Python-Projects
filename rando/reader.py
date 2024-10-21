@@ -36,3 +36,14 @@ def q3():
 
     inFile.close()
 q3()
+
+def q4():
+    inFile = open("lab5/debanks.txt", "r")
+
+    with open("lab5/debanks.txt", "r") as inFile:
+        for line_number, line in enumerate(inFile, start=1):
+            print(f"Line {line_number}: {line.strip()}")
+
+    inFile.close()
+q4()
+
