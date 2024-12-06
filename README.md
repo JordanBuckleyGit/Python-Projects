@@ -28,8 +28,5 @@ This repository contains a Python implementation of the Higher Or Lower card gam
 - These files record gameplay statistics, such as streak lengths and wins/losses.
 - Separate files are used for different player types: human, stupid computer, and smart computer.
 
-## Contributors
-- [JordanBuckleyGit](https://github.com/JordanBuckleyGit)
-
 ## License
 This project is licensed under the [MIT License]
